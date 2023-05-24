@@ -43,7 +43,7 @@ export default function Home() {
         </div>
         <div className="description">
           <h1 className="section-header">
-            Good luck!
+            Good luck to Nas!
           </h1>
           <p>If you run out of time, sketch out your proposed solution so we can discuss your approach. We'd rather explore that than get too caught up in the specific implementation details.
           </p>
